@@ -64,7 +64,7 @@ There's a few edge cases however that need to be taken into account! The rest is
 
 My approach of getting the CPU physical & virtual processors might be utterly wrong, I honestly have not found anyone who was able to tell me the right way and I only managed to find the answer via google which gave me the "correct" amount which will usually almost for everyone be 1.
 
-My attempt is technically working but probably wrong because all it really does is check wehter we have that one line or not and yeah, do not do what I did :P
+Basically for each new processor a line is added, the number indicates the index. So even if it says 0 withouth the ```wc -l``` command, its correct as its just the index.
 
 ### Disk Usage!
 
