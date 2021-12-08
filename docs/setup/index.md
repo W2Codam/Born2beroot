@@ -17,5 +17,6 @@ By the end you will have something that looks like this:
 ![start2](/images/Start2.png)
 - Step 6: Select the ```.dmg``` you downloaded from debian. Save everything
 - Step 7: Run it, and wait for a super tiny window to appear! (Press ```⌘ + C``` to resize)
-- Step 8: Profit!
 ![start3](/images/Start3.png)
+- Step 8: Profit!
+
