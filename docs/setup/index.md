@@ -13,7 +13,7 @@ By the end you will have something that looks like this:
 - Step 2: Click on new, Fill in the info such as name.
 - Step 3: Select Linux and choose Debian64, keep the rest as is (or play with it).
 - Step 4: Just ignore everything and keep clicking 'continue', trust me most of these settings will suffice as is.
-- Step 5: Navigate to Settings > Storage, Click on ```<Name>.vdi``` under the sata controller.
+- Step 5: Navigate to Settings > Storage, Click on ```Empty``` under the ```Controller: IDE```.
 ![start2](/images/Start2.png)
 - Step 6: Select the ```.dmg``` you downloaded from debian. Save everything
 - Step 7: Run it, and wait for a super tiny window to appear! (Press ```⌘ + C``` to resize)
