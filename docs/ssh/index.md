@@ -46,7 +46,7 @@ Click on the green ```+``` icon and just do what I did here, yup thats it.
 
 ## There shall be a connection!
 
-Now go do ```cd /etc/ssh``` and edit the ```sshd_config.d``` file with sudo!
+Now go do ```cd /etc/ssh``` and edit the ```sshd_config``` file with sudo!
 
 Find the line that says ```#Port <number>``` uncomment it and change it to 4242.
 ![config](/images/ssh_config.png)
