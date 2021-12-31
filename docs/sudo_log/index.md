@@ -12,7 +12,7 @@ This opens the sudoers file with the default editor and will look something like
 
 This is where you will do the:
 - Requirement for TTY
-- Restricitng sudo to the specified directories
+- Restricting sudo to the specified directories
 - Re-directing the logging for sudo
 - Set the bad password message & attempts
 
